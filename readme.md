@@ -20,3 +20,9 @@ https://blog.csdn.net/fatiaozhang9527/article/details/133285366
 相同设备可以尝试此镜像，也欢迎相同设备的朋友推荐其它镜像。
 
 来源：https://www.armbian.com/amlogic-s9xx-tv-box/
+
+---
+20260228更新：
+我给刷成砖了之后重新刷了安卓包，再刷这个不知道为什么不行，我又在u盘刷了youtube的一个包，能正常在u盘运行armbian，，然后清空u盘，又重新刷这个包，又能运行了，谜之bug。
+
+youtube参考：https://www.youtube.com/watch?v=tO7IhVkutb4
